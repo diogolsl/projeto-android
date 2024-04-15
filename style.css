@@ -94,6 +94,7 @@ border-radius: 5px 0px 0px 5px ;
 .pic{
    display: flex;
    justify-content: center;
+   padding: 10px;
 }
 picture#foto{
    display: flex;
